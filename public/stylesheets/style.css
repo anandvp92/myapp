@@ -1,0 +1,20 @@
+.row{
+  padding: 1em;
+  margin: 1em;
+  display: flex;
+  flex-direction:row;
+  background-color: rgba(224, 224, 224, 0.445);
+  justify-content: space-evenly ;
+
+}
+
+#maincard{
+  padding-top: 1rem;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+
